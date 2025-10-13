@@ -1,6 +1,7 @@
 -- copyright Trapcioo ♡ 
 -- Discord: Trapcioo#0467 
 -- Telegram: @Trapcioo
+local game = ""
 
 
 local project = "CriticalOpsScript"
